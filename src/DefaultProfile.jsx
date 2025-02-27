@@ -3,4 +3,3 @@ const DefaultProfile = () => {
   };
   
   export default DefaultProfile;
-  
